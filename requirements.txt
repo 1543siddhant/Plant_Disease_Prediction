@@ -1,5 +1,5 @@
-tensorflow==2.12.0
-keras==2.10.0
+tensorflow
+keras
 numpy==1.23.3
 matplotlib==3.6.2
 pandas==1.4.4
