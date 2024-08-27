@@ -36,6 +36,6 @@ Welcome to the Plant Disease Recognition System! This project is designed to hel
 
 The dataset used in this project contains approximately 87,000 images of healthy and diseased crop leaves, classified into 38 categories. It is split into training, validation, and test sets:
 
-trainingSet: "70,295 images",
-validationSet: "17,572 images",
-testSet: "33 images"
+- trainingSet: "70,295 images",
+- validationSet: "17,572 images",
+- testSet: "33 images"
