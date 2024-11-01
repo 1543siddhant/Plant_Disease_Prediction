@@ -38,7 +38,7 @@ The dataset used in this project contains approximately 87,000 images of healthy
 
 - trainingSet: "70,295 images",
 - validationSet: "17,572 images",
-- testSet: "33 images".
+- testSet: "33 images"
 
 
 
