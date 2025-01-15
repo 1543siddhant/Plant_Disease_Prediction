@@ -3,7 +3,7 @@
 # Project Demo Link : LinkedIn
 https://www.linkedin.com/posts/siddhant-patil-04587525b_agriculture-ai-machinelearning-activity-7226147898252550144-G6jh?utm_source=share&utm_medium=member_ios
 
-# 🌿 Plant Disease Recognition System.
+# 🌿 Plant Disease Recognition System
 
 Welcome to the Plant Disease Recognition System! This project is designed to help farmers and agricultural experts easily identify plant diseases using state-of-the-art deep learning models.
 
